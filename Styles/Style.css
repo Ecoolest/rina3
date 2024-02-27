@@ -1,0 +1,137 @@
+@media (min-width: 350px) and (max-width: 768px){
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{ font-family:roboto ;
+
+}
+ header nav{ display: flex;
+    background-color: #101418 ;
+    margin-top: 131px;
+    margin-left: 226px;
+    margin-right: 226px;
+   
+
+}
+section{ width: 1440px;
+    height: 731px;
+
+
+}
+body{ background-image: url(../images/Rectangle\ 1.png) ;
+      
+    
+
+
+}
+
+
+nav{ width: 1200px;
+    height: 76px;
+    align-items: center;
+
+}
+.two a{ text-decoration: none;
+
+    
+
+
+}
+
+
+
+.one ul{ color: #FFFFCC  ;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 70%;
+    font-size: 20px;
+    font-weight: 46px;
+    margin-left: 40px;
+
+}
+.one { flex: 1;
+    display: flex;
+    width: 518px;
+    height: 214px;
+    align-items: center;
+
+
+}
+.two{ flex: none;
+    margin-left: 20px;
+    align-items: center;
+     text-align:center ;
+     width: 250px;
+     height: 77px;
+     background-color: #A08040 ;
+
+}
+.one ul .icon{ display: flex;
+
+}
+.icon{ flex: 1;
+    display: inline-flex;
+    width: 7px;
+    height: 30px;
+    
+    margin-left: 70px;
+
+
+}
+.one .icon{ margin-left: ;
+
+}
+
+a{ 
+    color: #FFFFCC;
+    
+    font-size: 25px;
+    align-items: center;
+    
+    margin-top: 50px;
+
+}
+
+.three{ margin-top: 300px;
+    margin-left: 280px;
+    text-align: center;
+
+}
+
+.red{ margin-bottom: 5px;
+
+}
+.head1{ font-size: 60px;
+     color: #FFFFCC;
+     
+     height: 108px;
+     
+
+
+}
+.pg1{ font-size: 20px;
+    color: #FFFFFF;
+
+}
+.btn1{ width: 215px;
+    height: 55px;
+    font-size:15px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border:solid 2px #FFFFCC ;
+    margin-top: 17px;
+
+}
+.btn1:hover{ cursor: pointer;
+    color: purple;
+
+}
+
+
+
+
+}
+
+
+
